@@ -1,7 +1,5 @@
 .. image:: https://travis-ci.org/litebitcoins/electrumx.svg?branch=master
     :target: https://travis-ci.org/litebitcoins/electrumx
-.. image:: https://coveralls.io/repos/github/litebitcoins/electrumx/badge.svg
-    :target: https://coveralls.io/github/litebitcoins/electrumx
 
 ===============================================
 ElectrumX - Reimplementation of electrum-server
