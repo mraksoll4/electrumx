@@ -76,7 +76,7 @@ Install the prerequisites above.
 
 Check out the code from Github::
 
-    git clone https://github.com/litebitcoins/electrumx.git
+    git clone https://github.com/mraksoll4/electrumx.git
     cd electrumx
 
 You can install with `setup.py` or run the code from the source tree
@@ -395,14 +395,14 @@ certificate.  Therefore it's a good idea to make an offline backup
 copy of your certificate and key in case you need to restore them.
 
 
-.. _`ENVIRONMENT.rst`: https://github.com/litebitcoins/electrumx/blob/master/docs/ENVIRONMENT.rst
-.. _`contrib/systemd/electrumx.service`: https://github.com/litebitcoins/electrumx/blob/master/contrib/systemd/electrumx.service
+.. _`ENVIRONMENT.rst`: https://github.com/mraksoll4/electrumx/blob/master/docs/ENVIRONMENT.rst
+.. _`contrib/systemd/electrumx.service`: https://github.com/mraksoll4/electrumx/blob/master/contrib/systemd/electrumx.service
 .. _`daemontools`: http://cr.yp.to/daemontools.html
 .. _`runit`: http://smarden.org/runit/index.html
 .. _`aiohttp`: https://pypi.python.org/pypi/aiohttp
 .. _`pylru`: https://pypi.python.org/pypi/pylru
 .. _`IRC`: https://pypi.python.org/pypi/irc
 .. _`x11_hash`: https://pypi.python.org/pypi/x11_hash
-.. _`contrib/python3.6/python-3.6.sh`: https://github.com/litebitcoins/electrumx/blob/master/contrib/python3.6/python-3.6.sh
-.. _`contrib/raspberrypi3/install_electrumx.sh`: https://github.com/litebitcoins/electrumx/blob/master/contrib/raspberrypi3/install_electrumx.sh
-.. _`contrib/raspberrypi3/run_electrumx.sh`: https://github.com/litebitcoins/electrumx/blob/master/contrib/raspberrypi3/run_electrumx.sh
+.. _`contrib/python3.6/python-3.6.sh`: https://github.com/mraksoll4/electrumx/blob/master/contrib/python3.6/python-3.6.sh
+.. _`contrib/raspberrypi3/install_electrumx.sh`: https://github.com/mraksoll4/electrumx/blob/master/contrib/raspberrypi3/install_electrumx.sh
+.. _`contrib/raspberrypi3/run_electrumx.sh`: https://github.com/mraksoll4/electrumx/blob/master/contrib/raspberrypi3/run_electrumx.sh

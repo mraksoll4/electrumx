@@ -368,4 +368,4 @@ your available physical RAM:
   versions, a value of 90% of the sum of the old UTXO_MB and HIST_MB
   variables is roughly equivalent.
 
-.. _lib/coins.py: https://github.com/litebitcoins/electrumx/blob/master/lib/coins.py
+.. _lib/coins.py: https://github.com/mraksoll4/electrumx/blob/master/lib/coins.py

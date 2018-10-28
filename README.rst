@@ -1,5 +1,5 @@
-.. image:: https://travis-ci.org/litebitcoins/electrumx.svg?branch=master
-    :target: https://travis-ci.org/litebitcoins/electrumx
+.. image:: https://travis-ci.org/mraksoll4/electrumx.svg?branch=master
+    :target: https://travis-ci.org/mraksoll4/electrumx
 
 ===============================================
 ElectrumX - Reimplementation of electrum-server
@@ -18,7 +18,7 @@ See `docs/HOWTO.rst`_.
 There is also an `installer`_ available that simplifies the installation on various Linux-based distributions.
 There is also an `Dockerfile`_ available .
 
-.. _installer: https://github.com/litebitcoins/electrumx-installer
+.. _installer: https://github.com/mraksoll4/electrumx-installer
 
 .. _Dockerfile: https://github.com/followtheart/electrumx-docker
 
@@ -274,6 +274,6 @@ Version 1.0.1
 * dogecoin / litecoin parameter fixes (erasmospunk, pooler)
 * minor doc tweaks
 
-.. _docs/HOWTO.rst: https://github.com/litebitcoins/electrumx/blob/master/docs/HOWTO.rst
-.. _docs/ENVIRONMENT.rst: https://github.com/litebitcoins/electrumx/blob/master/docs/ENVIRONMENT.rst
-.. _docs/PEER_DISCOVERY.rst: https://github.com/litebitcoins/electrumx/blob/master/docs/PEER_DISCOVERY.rst
+.. _docs/HOWTO.rst: https://github.com/mraksoll4/electrumx/blob/master/docs/HOWTO.rst
+.. _docs/ENVIRONMENT.rst: https://github.com/mraksoll4/electrumx/blob/master/docs/ENVIRONMENT.rst
+.. _docs/PEER_DISCOVERY.rst: https://github.com/mraksoll4/electrumx/blob/master/docs/PEER_DISCOVERY.rst

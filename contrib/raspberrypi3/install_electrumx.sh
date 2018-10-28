@@ -20,7 +20,7 @@ sudo pip3 install plyvel
 sudo pip3 install irc
 
 # install electrumx
-git clone https://github.com/litebitcoins/electrumx.git
+git clone https://github.com/mraksoll4/electrumx.git
 cd electrumx
 sudo python3 setup.py install
 
