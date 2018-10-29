@@ -19,6 +19,6 @@ sudo apt-get install git
 sudo pip3 install plyvel
 
 # install electrumx
-git clone https://github.com/mraksoll4/electrumx.git
+git clone https://github.com/litebitcoins/electrumx.git
 cd electrumx
 sudo python3 setup.py install
